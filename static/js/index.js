@@ -1,6 +1,6 @@
 window.HELP_IMPROVE_VIDEOJS = false;
 
-var INTERP_BASE = "./static/interpolation/stacked";
+var INTERP_BASE = "https://storage.googleapis.com/nerfies-public/interpolation/stacked";
 var NUM_INTERP_FRAMES = 240;
 
 var interp_images = [];
